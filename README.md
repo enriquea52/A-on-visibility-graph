@@ -4,7 +4,7 @@ The present code is an implementation of the classical A* path planning algorith
 
 The code implementation has a CLI to execute it as follows.
 
-`python main.py environments/env_X.csv graph_environments/visibility_graph_env_X.csv`  where X is the environment number and it has to be the same for both arguments. Some execution examples are using the following commands. The code shows the environment, the visibility graph and the shortest path found using the A* algorithm, it also prints a list of the vertices to follow and the distance that represents the shortest path
+`python main.py environments/env_X.csv graph_environments/visibility_graph_env_X.csv`  where X is the environment number and it has to be the same for both arguments. Some execution examples are using the following commands. The code shows the environment displayed where the red lines represent the visibility and the shortest path found using the A* is shown in blue, it also prints a list of the vertices to follow and the distance that represents the shortest path
 
 The **start** and **goal** nodes (positions) are the first and last elements of the `env_X.csv` file respectively.
 
