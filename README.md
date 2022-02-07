@@ -10,10 +10,15 @@ The **start** and **goal** nodes (positions) are the first and last elements of 
 
 `python main.py environments/env_0.csv graph_environments/visibility_graph_env_0.csv`
 
-![][env0]
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1bzxDYoWVYqHxWEl5pGydyXTdJLaUoFlq" width="300" height="300" />
+</p>
 
 
 `python main.py environments/env_11.csv graph_environments/visibility_graph_env_11.csv`
 
+<p align="center">
+<img src="https://drive.google.com/uc?export=view&id=1hvctv4oRBdlHbB6y_C24xtVFETAciEag" width="400" height="300" />
+</p>
 
-[env0]: https://drive.google.com/file/d/1bzxDYoWVYqHxWEl5pGydyXTdJLaUoFlq/view?usp=sharing
+
