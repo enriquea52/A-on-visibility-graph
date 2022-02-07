@@ -8,12 +8,16 @@ The code implementation has a CLI to execute it as follows.
 
 The **start** and **goal** nodes (positions) are the first and last elements of the `env_X.csv` file respectively.
 
+### Non-Convex Polygon
+
 `python main.py environments/env_0.csv graph_environments/visibility_graph_env_0.csv`
 
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1bzxDYoWVYqHxWEl5pGydyXTdJLaUoFlq" width="300" height="300" />
 </p>
 
+
+### Mexico
 
 `python main.py environments/env_11.csv graph_environments/visibility_graph_env_11.csv`
 
